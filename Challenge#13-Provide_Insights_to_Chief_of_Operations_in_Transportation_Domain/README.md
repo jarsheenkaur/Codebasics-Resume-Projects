@@ -1,8 +1,8 @@
 # Goodcabs: Data-Driven Performance Analysis for Operational Growth & Passenger Satisfaction \[Microsoft Power BI | MySQL\] 
 
-o Built interactive Power BI dashboards using Power Query for data transformation, DAX for KPI creation, and data modeling to establish structured relationships between tables. Extended analysis beyond dashboard data by exploring external market factors, uncovering deeper performance drivers to enable strategic, data-driven decision-making. 
-o Performed ad-hoc analysis in MySQL, utilizing joins, CTEs, subqueries, and window functions to extract business-critical insights from relational databases. 
-o Generated actionable recommendations to optimize operations, elevate service, maximize passenger satisfaction, and drive Goodcabs' market growth - positioning the company for long-term success in India's competitive tier-2 mobility market.
+- Built interactive Power BI dashboards using Power Query for data transformation, DAX for KPI creation, and data modeling to establish structured relationships between tables. Extended analysis beyond dashboard data by exploring external market factors, uncovering deeper performance drivers to enable strategic, data-driven decision-making. 
+- Performed ad-hoc analysis in MySQL, utilizing joins, CTEs, subqueries, and window functions to extract business-critical insights from relational databases. 
+- Generated actionable recommendations to optimize operations, elevate service, maximize passenger satisfaction, and drive Goodcabs' market growth - positioning the company for long-term success in India's competitive tier-2 mobility market.
 
 ## Problem Statement
 
