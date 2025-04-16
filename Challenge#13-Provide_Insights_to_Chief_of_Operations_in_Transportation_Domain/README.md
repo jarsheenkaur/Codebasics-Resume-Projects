@@ -1,10 +1,10 @@
-# Goodcabs: Data-Driven Performance Analysis for Operational Growth & Passenger Satisfaction \[Microsoft Power BI | MySQL\] 
+# Goodcabs: Data-Driven Performance Analysis for Operational Growth & Passenger Satisfaction
 
 - Built **interactive Power BI dashboards** using **Power Query** for **data transformation**, **DAX** for **KPI creation**, and **data modeling** to **establish structured relationships** between tables. **Extended analysis** beyond dashboard data by **exploring external market factors**, **uncovering deeper performance drivers to enable strategic, data-driven decision-making**. 
 - **Performed ad-hoc analysis in MySQL**, **utilizing joins**, **CTEs**, **subqueries**, and **window functions** to **extract business-critical insights** from relational databases. 
 - **Generated actionable recommendations** to **optimize operations**, **elevate service**, **maximize passenger satisfaction**, and **drive Goodcabs' market growth - positioning the company for long-term success** in India's competitive tier-2 mobility market.
 
-🔗 ([View Full Problem Statement Document](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%2313-Provide_Insights_to_Chief_of_Operations_in_Transportation_Domain/Challenge%20Files/problem_statement.pdf))
+🔗 [View Problem Statement](https://codebasics.io/challenge/codebasics-resume-project-challenge/16)
 
 ## Project Features & Highlights
 
@@ -22,7 +22,7 @@
 - **Delivered strategic recommendations tied to findings** — ranging from pricing and service improvements to retention tactics, marketing strategies, and partnerships, **ensuring business impact beyond the dashboards**.
 - This project was **designed to demonstrate analytical depth**, not just report numbers. It **includes expected KPIs** and **dives into additional, derived insights** that often go unexplored in standard BI projects.
 
-🔗 ([View Goodcabs - Performance Analysis using Microsoft Power BI \(PDF Version\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%2313-Provide_Insights_to_Chief_of_Operations_in_Transportation_Domain/GoodCabs%20-%20Performance%20Analysis%20using%20Microsoft%20Power%20BI.pdf))
+🔗 [View Goodcabs - Performance Analysis using Microsoft Power BI \(PDF Version\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%2313-Provide_Insights_to_Chief_of_Operations_in_Transportation_Domain/GoodCabs%20-%20Performance%20Analysis%20using%20Microsoft%20Power%20BI.pdf)
 
 ## Key Performance Indicators (KPIs)
 
