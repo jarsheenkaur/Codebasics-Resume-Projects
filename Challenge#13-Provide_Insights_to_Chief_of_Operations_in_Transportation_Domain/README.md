@@ -6,7 +6,7 @@
 
 ## Problem Statement
 
-**Provide Insights to Cheif of Operations in Transportation Domain**
+**Provide Insights to Chief of Operations in Transportation Domain**
 
 **Domain:**  Transportation & Mobility 
 
@@ -30,6 +30,7 @@ However, the Chief of Operations, Bruce Haryali, wanted this immediately but the
 - Experimented with and successfully implemented box plots, bubble plots, ribbon charts, and tornado charts — enhancing storytelling and bringing out complex relationships in a visually intuitive way.
 - Combined data analysis with business logic to deliver not just numbers, but clear narratives — identifying what’s working, what needs attention, and how to improve.
 - Delivered strategic recommendations tied to findings — ranging from pricing and service improvements to retention tactics, marketing strategies, and partnerships, ensuring business impact beyond the dashboards.
+- This project was designed to demonstrate analytical depth, not just report numbers. It includes expected KPIs and dives into additional, derived insights that often go unexplored in standard BI projects.
 
 ## Key Performance Indicators (KPIs)
 
