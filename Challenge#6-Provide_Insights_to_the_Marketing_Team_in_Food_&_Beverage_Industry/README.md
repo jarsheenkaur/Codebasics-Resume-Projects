@@ -1,8 +1,8 @@
 # CodeX: Expansion & Positioning of a New Energy Drink Brand in Indian Market
 
-- Conducted comprehensive analysis of survey data from 10K respondents, employing Excel, Power Query, and Pivot Tables to construct interactive dashboards, effectively visualizing critical demographic insights, consumer behavior patterns, market trends, and brand performance metrics. 
-- Interpreted key market trends and consumer preferences by analyzing purchasing behaviors and competitive market dynamics, generating actionable intelligence for strategic product positioning and market entry strategies. 
-- Formulated data-driven recommendations concerning product availability, pricing strategies, and product differentiation - projected to drive a market share gain of 8-12% and significantly enhance brand penetration in the Indian energy drink segment.
+- Conducted comprehensive analysis of survey data from 10K respondents, employing **Excel**, **Power Query**, and **Pivot Tables** to construct interactive dashboards, effectively visualizing critical demographic insights, consumer behavior patterns, market trends, and brand performance metrics. 
+- Interpreted **key market trends and consumer preferences** by analyzing purchasing behaviors and competitive market dynamics, generating **actionable intelligence for strategic product positioning and market entry strategies**. 
+- Formulated **data-driven recommendations** concerning product availability, pricing strategies, and product differentiation - projected to **drive a market share gain of 8-12%** and significantly **enhance brand penetration** in the Indian energy drink segment.
 
 🔗 [View Problem Statement](https://codebasics.io/challenge/codebasics-resume-project-challenge/9)
 
