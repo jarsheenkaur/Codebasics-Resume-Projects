@@ -47,4 +47,4 @@ Designed to fuel market expansion for **CodeX**, this project transforms extensi
 
 - 🩺 **Benchmarks Brand Health:** Tracks how CodeX performs relative to competitors and outlines areas to improve brand perception and consumer loyalty.
 
-🔗 [View CodeX Survey Analysis using Microsoft Excel](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%236%20-%20CodeX%20(Marketing%20Survey%20Insights)/CodeX%20Survey%20Analysis%20for%20Brand%20Growth%20%26%20Market%20Expansion%20in%20India%20using%20Microsoft%20Excel.pdf)
+🔗 [View CodeX Survey Analysis using Microsoft Excel](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2306%20-%20CodeX%20(Marketing%20Survey%20Insights)/CodeX%20Survey%20Analysis%20for%20Brand%20Growth%20%26%20Market%20Expansion%20in%20India%20using%20Microsoft%20Excel.pdf)
