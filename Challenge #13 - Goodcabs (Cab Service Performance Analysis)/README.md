@@ -6,6 +6,10 @@
 
 🔗 [View Problem Statement](https://codebasics.io/challenge/codebasics-resume-project-challenge/16)
 
+🔗 [View Goodcabs - Performance Analysis using Microsoft Power BI \(PDF Version\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2313%20-%20Goodcabs%20(Cab%20Service%20Performance%20Analysis)/Goodcabs%20-%20Performance%20Analysis%20using%20Microsoft%20Power%20BI.pdf)
+
+🔗 [View Goodcabs - Performance Analysis Insights & Recommendations \(Final Report\)](https://drive.google.com/file/d/1RpXfk4t00HNgbDMxKNy7osclz1cWNm-v/preview)
+
 ## Project Features & Highlights
 
 - **Demonstrates the full lifecycle** — from **business understanding** and **data loading** to **transformation**, **modeling**, **dashboarding**, and **actionable insights and recommendations**.
@@ -21,8 +25,6 @@
 - **Combined data analysis with business logic** to deliver not just numbers, but **clear narratives** — **identifying what’s working, what needs attention, and how to improve**.
 - **Delivered strategic recommendations tied to findings** — ranging from pricing and service improvements to retention tactics, marketing strategies, and partnerships, **ensuring business impact beyond the dashboards**.
 - This project was **designed to demonstrate analytical depth**, not just report numbers. It **includes expected KPIs** and **dives into additional, derived insights** that often go unexplored in standard BI projects.
-
-🔗 [View Goodcabs - Performance Analysis using Microsoft Power BI \(PDF Version\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2313%20-%20Goodcabs%20(Cab%20Service%20Performance%20Analysis)/Goodcabs%20-%20Performance%20Analysis%20using%20Microsoft%20Power%20BI.pdf)
 
 ## Key Performance Indicators (KPIs)
 
