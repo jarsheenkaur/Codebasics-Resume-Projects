@@ -6,6 +6,10 @@
 
 🔗 [View Problem Statement](https://codebasics.io/challenge/codebasics-resume-project-challenge/9)
 
+🔗 [View CodeX Survey Analysis using Microsoft Excel \(Main Project\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2306%20-%20CodeX%20(Marketing%20Survey%20Insights)/CodeX%20Survey%20Analysis%20for%20Brand%20Growth%20%26%20Market%20Expansion%20in%20India%20using%20Microsoft%20Excel.pdf)
+
+🔗 [View Survey-Based Insights & Recommendations for CodeX \(Final Report\)](https://drive.google.com/file/d/1l6cM1IKivEf8gD7tq1RaYaZRHEbympsI/preview)
+
 ## Key Features & Highlights
 
 ### 🚀 Project Overview
@@ -46,5 +50,3 @@ Designed to fuel market expansion for **CodeX**, this project transforms extensi
 - 🏙️ **Guides Market Expansion:** Highlights underserved regions and marketing channels for growth (like online or tier-2 cities).
 
 - 🩺 **Benchmarks Brand Health:** Tracks how CodeX performs relative to competitors and outlines areas to improve brand perception and consumer loyalty.
-
-🔗 [View CodeX Survey Analysis using Microsoft Excel](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2306%20-%20CodeX%20(Marketing%20Survey%20Insights)/CodeX%20Survey%20Analysis%20for%20Brand%20Growth%20%26%20Market%20Expansion%20in%20India%20using%20Microsoft%20Excel.pdf)
