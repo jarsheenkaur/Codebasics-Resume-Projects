@@ -8,7 +8,7 @@
 
 🔗 [View LioJotstar Merger - Data Analysis with Python for Strategic Optimization \(Main Project\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/tree/main/Challenge%20%2314%20-%20LioJotstar%20(Insights%20for%20Post-Merger%20Growth)/LioJotstar%20Merger%20-%20Data%20Analysis%20with%20Python%20for%20Strategic%20Optimization)
 
-🔗 [View Driving LioJotstar's Success ~ A Data-Backed Merger Strategy.pdf\(Final Report\)](https://drive.google.com/file/d/1gvkJ6s_svLiiCuNHSET_DarIAVKBz95B/preview)
+🔗 [View Driving LioJotstar's Success ~ A Data-Backed Merger Strategy.pdf \(Final Report\)](https://drive.google.com/file/d/1gvkJ6s_svLiiCuNHSET_DarIAVKBz95B/preview)
 
 ## Project Features & Highlights
 
