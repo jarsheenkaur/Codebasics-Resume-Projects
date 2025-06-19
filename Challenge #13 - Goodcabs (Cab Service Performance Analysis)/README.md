@@ -6,7 +6,7 @@
 
 🔗 [View Problem Statement](https://codebasics.io/challenge/codebasics-resume-project-challenge/16)
 
-🔗 [View Goodcabs - Performance Analysis using Microsoft Power BI \(PDF Version\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2313%20-%20Goodcabs%20(Cab%20Service%20Performance%20Analysis)/Goodcabs%20-%20Performance%20Analysis%20using%20Microsoft%20Power%20BI.pdf)
+🔗 [View Goodcabs - Performance Analysis using Microsoft Power BI \(Main Project\)](https://github.com/jarsheenkaur/Codebasics-Resume-Projects/blob/main/Challenge%20%2313%20-%20Goodcabs%20(Cab%20Service%20Performance%20Analysis)/Goodcabs%20-%20Performance%20Analysis%20using%20Microsoft%20Power%20BI.pdf)
 
 🔗 [View Goodcabs - Performance Analysis Insights & Recommendations \(Final Report\)](https://drive.google.com/file/d/1RpXfk4t00HNgbDMxKNy7osclz1cWNm-v/preview)
 
